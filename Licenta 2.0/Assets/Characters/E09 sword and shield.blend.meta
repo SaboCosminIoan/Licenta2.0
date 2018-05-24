@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 1bca8a2693e4008459fb260f02063a0d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Chest
+    100004: Cube
+    100006: Cube_001
+    100008: Cube_003
+    100010: //RootNode
+    100012: Fingers01_L
+    100014: Fingers01_R
+    100016: Fingers02_L
+    100018: Fingers02_R
+    100020: Foot_L
+    100022: Foot_R
+    100024: Hair
+    100026: Hand_L
+    100028: Hand_R
+    100030: Head
+    100032: Helmet
+    100034: Hips
+    100036: Lower_Arm_L
+    100038: Lower_Arm_R
+    100040: Lower_Leg_L
+    100042: Lower_Leg_R
+    100044: Neck
+    100046: Pants
+    100048: Plane
+    100050: Platebody
+    100052: Platelegs
+    100054: Shield
+    100056: Shirt
+    100058: Shoes
+    100060: Shoulder_L
+    100062: Shoulder_R
+    100064: Spine
+    100066: Thumb01_L
+    100068: Thumb01_R
+    100070: Thumb02_L
+    100072: Thumb02_R
+    100074: Toes_L
+    100076: Toes_R
+    100078: Upper_Arm_L
+    100080: Upper_Arm_R
+    100082: Upper_Leg_L
+    100084: Upper_Leg_R
+    400000: Armature
+    400002: Chest
+    400004: Cube
+    400006: Cube_001
+    400008: Cube_003
+    400010: //RootNode
+    400012: Fingers01_L
+    400014: Fingers01_R
+    400016: Fingers02_L
+    400018: Fingers02_R
+    400020: Foot_L
+    400022: Foot_R
+    400024: Hair
+    400026: Hand_L
+    400028: Hand_R
+    400030: Head
+    400032: Helmet
+    400034: Hips
+    400036: Lower_Arm_L
+    400038: Lower_Arm_R
+    400040: Lower_Leg_L
+    400042: Lower_Leg_R
+    400044: Neck
+    400046: Pants
+    400048: Plane
+    400050: Platebody
+    400052: Platelegs
+    400054: Shield
+    400056: Shirt
+    400058: Shoes
+    400060: Shoulder_L
+    400062: Shoulder_R
+    400064: Spine
+    400066: Thumb01_L
+    400068: Thumb01_R
+    400070: Thumb02_L
+    400072: Thumb02_R
+    400074: Toes_L
+    400076: Toes_R
+    400078: Upper_Arm_L
+    400080: Upper_Arm_R
+    400082: Upper_Leg_L
+    400084: Upper_Leg_R
+    2100000: Wood
+    2100002: Metal
+    2100004: Emblem
+    2100006: Metal_Dark
+    2100008: Blade_highlight
+    2100010: Blade
+    2100012: Skin
+    2100014: Hair
+    2100016: Shirt
+    2100018: Shoe
+    2100020: Pants_001
+    2100022: Metal_001
+    2100024: Metal_Dark_001
+    2100026: Metal_Dark2
+    2100028: Underclothes
+    2300000: Cube_001
+    2300002: Cube_003
+    2300004: Plane
+    2300006: Shield
+    3300000: Cube_001
+    3300002: Cube_003
+    3300004: Plane
+    3300006: Shield
+    4300000: Shield
+    4300002: Plane
+    4300004: Cube_003
+    4300006: Cube_001
+    4300008: Cube
+    4300010: Hair
+    4300012: Shirt
+    4300014: Shoes
+    4300016: Pants
+    4300018: Helmet
+    4300020: Platebody
+    4300022: Platelegs
+    7400000: Default Take
+    7400002: Idle
+    7400004: Run
+    7400006: Test
+    7400008: Walk
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Hair
+    13700004: Helmet
+    13700006: Pants
+    13700008: Platebody
+    13700010: Platelegs
+    13700012: Shirt
+    13700014: Shoes
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
